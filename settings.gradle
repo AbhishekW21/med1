@@ -1,0 +1,9 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Optional, depending on your needs
+    }
+}
+
+
